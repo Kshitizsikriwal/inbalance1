@@ -1,0 +1,53 @@
+
+
+body {
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .well {
+    background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 20opx;
+  }
+  
+  .well legend {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .control-label {
+    font-weight: bold;
+    color: #3498db;
+  }
+  
+  .input-group-addon {
+    background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+    color: #fff;
+  }
+  
+  .selectpicker {
+    background-color: #fff;
+    color: #3498db;
+  }
+  
+  .btn-primary {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2978a0;
+  }
+  
